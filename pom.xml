@@ -42,6 +42,12 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
+        <!-- Postgres -->
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
+
         <!-- OAuth2 Client -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
